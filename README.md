@@ -2,13 +2,12 @@
 
 ## Description
 
-
+This is Just Another Text Editor, or JATE, designed as a PWA that allows the user to install the program onto their device for use without connection. You can fill it with notes just as any other notepad, and its designed to save all input to the local storage. 
 
 ## Table of Contents
 
 - [User Story](#user-story)
 - [Acceptance Criteria](#acceptance-criteria)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
 - [License](#license)
@@ -48,23 +47,17 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Render<br />
 THEN I should have proper build scripts for a webpack application
 
-## Installation
-
- 
-
-GitHub Repo - https://github.com/asierra619/back-end-ecomm
-
 ## Usage
 
-Render Link - 
+Render Link - https://jate-text-editor-oymd.onrender.com/
 
+GitHub Repo - https://github.com/asierra619/text-editor
 
-
-![screenshot of Text Editor]()
+![screenshot of Text Editor](./images/ScreenshotJATE.png)
 
 ## Technologies Used
 
-
+Render, Express, Concurrently, Nodemon, if-env
 
 ## License
 
@@ -73,3 +66,4 @@ MIT
 ## Credits
 
 Thank you to the following -<br />
+Bobbi Tarkany - Calendly Tutor
